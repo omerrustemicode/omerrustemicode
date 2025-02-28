@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @omerrustemicode
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to code in Asp .net core
+👋 Hi, I'm Omer!
+Passionate about coding. Developer, learner, and builder.
 
-<!---
-omerrustemicode/omerrustemicode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently learning: Nodejs
+💼 Projects: Check out my work
+📫 Connect: omerrustemi | omerrustemi.dev@gmail.com
+⚙️ Skills
+Languages: C#,PHP,JS
+Tools: Git, Docker
+Frameworks: .Net,Laravel
+
+🤝 Let's Connect!
+Email: omerrustemi.dev@gmail.com
+LinkedIn: [[Your Profile](https://www.linkedin.com/in/omerrustemi/)](https://www.linkedin.com/in/omerrustemi/)
