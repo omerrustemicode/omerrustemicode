@@ -11,4 +11,4 @@ Frameworks: .Net,Laravel
 
 🤝 Let's Connect!
 Email: omerrustemi.dev@gmail.com
-LinkedIn: [[Your Profile](https://www.linkedin.com/in/omerrustemi/)](https://www.linkedin.com/in/omerrustemi/)
+LinkedIn: [(https://www.linkedin.com/in/omerrustemi/)]
